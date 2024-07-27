@@ -1,0 +1,85 @@
+.text-container{
+      text-align: center;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .head{
+      font-size: 40px;
+      letter-spacing: 10px;
+      color: rgb(83, 79, 79);
+      padding-top: 20px;
+
+    }
+    .role{
+      font-size: 18px;
+      letter-spacing: 5px;
+      color: rgb(123, 117, 117);
+    }
+    .container {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      font-family: Arial; 
+    }
+    .left-section{
+    
+      background-color: gainsboro;
+      padding-top: 30px;
+      color: rgb(112, 105, 105);
+      font-family: Arial;
+      margin-top: -8px;
+      margin-left: -5px;
+      padding-left: 45px;
+      width: 48%;
+    
+    
+    }
+    .contact div{
+      display: flex;
+      font-size: 17px;
+      
+    }
+    .contact div p{
+      padding-top: 3px;
+      padding-left: 4px;
+    }
+  
+    img{
+      height: 24px;
+      padding-right: 10px; 
+      padding-top: 15px;
+      
+      
+    }
+    .linked,
+    .github{
+      color:rgb(65, 58, 58) ;
+
+    }
+  
+    .edu{
+      color:  rgb(65, 58, 58);
+      letter-spacing: 4px;
+      font-weight: bold;
+      font-size: 20px;
+  
+    }
+    .education{
+      width: 350px;
+    }
+    
+    .right-section{
+      width: 50%;
+      padding-left: 20px;
+      margin-right: 50px;
+    }
+    .profile-description{
+      padding-left: 4px;
+      font-size: 20px;
+      line-height: 30px;
+      color:  rgb(112, 105, 105);
+      
+    }
+      ul li{
+      padding-bottom: 10px;
+    }
+  
